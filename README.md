@@ -4,8 +4,13 @@
 
 
 ### Features
-1. Handle multi-signal to uni-signal generation.
-1. Handle signal to draft generation. 
+1. Process AlgoSignal Events
+  - Act as a consumer of AlgoSignal Events
+  - Produce UserAlgoSignal Events from each AS Event
+1. Process UserAlgoSignal Event
+  - Act as a cunsumer of UserAlgoSignal Events
+  - Create Draft from UserAlgoSignal Event
+  - Produce UserDraft Event
 
 
 
