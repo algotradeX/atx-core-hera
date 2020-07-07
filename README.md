@@ -4,8 +4,8 @@
 
 
 ### Features
-1. Handle multi-signal to uni-signal generation.
-1. Handle signal to draft generation. 
+1. Handle AlgoSignal to UserAlgoSignal generation.
+1. Handle UserAlgoSignal to draft generation. 
 
 
 
