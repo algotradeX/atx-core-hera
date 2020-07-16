@@ -11,7 +11,7 @@
 	<groupId>com.atx.core</groupId>
 	<artifactId>hera</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hera</name>
+	<name>atx-core-hera</name>
 	<description>Core Assistant Service</description>
 
 	<properties>
